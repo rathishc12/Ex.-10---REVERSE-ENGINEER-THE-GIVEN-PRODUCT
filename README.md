@@ -31,12 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Reebak04/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118364993/15c65f76-01c4-43ab-9173-167b8d3f5121)
+## Output:
+![image](https://github.com/Reebak04/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118364993/801db298-c3be-417a-b747-5030eb0c6bc8)
 
-### Output:
-
-
-### Name:
-### Register Number:
+### Name: RATHISH KUMAR C
+### Register Number: 212222100043
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
