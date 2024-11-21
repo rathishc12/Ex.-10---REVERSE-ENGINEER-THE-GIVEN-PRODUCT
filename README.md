@@ -31,12 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/user-attachments/assets/a0639ccb-650b-4dde-a9c5-8268cf8196f9)
+![image](https://github.com/user-attachments/assets/e4b935ce-1b4f-4e6a-8167-753244eb68e4)
 
 ### Output:
-![image](https://github.com/VARSHINI22009118/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119401150/2fa8ab18-a7c9-408c-80ae-05dd98973536)
-
-### Name:RATHISH KUMAR C
+![image](https://github.com/user-attachments/assets/82f221ee-e6e8-4c36-b141-df6f64b30243)
+### Name: RATHISH KUMAR C
 ### Register Number: 212222100043
 
 ## RESULT:
